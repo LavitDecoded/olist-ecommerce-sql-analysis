@@ -33,7 +33,7 @@ This required identifying and correcting for a data quirk: Olist assigns a **new
 **4. Monthly revenue shows sustained, compounding growth.**
 Revenue grew from ~R$138K/month in early 2017 to a stable R$1.0M–1.2M/month range through 2018.
 
-<img src="images/03_monthly_revenue_trend.png" width="680">
+<img src="images/04_monthly_revenue_trend.png" width="680">
 
 **5. A combined seller scorecard (revenue + review score + late-delivery rate) surfaces risk that revenue alone hides.**
 The top seller by revenue (R$229K) carries an 11.6% late-delivery rate — notably higher than several lower-ranked sellers with tighter delivery reliability, making them a candidate for performance review despite strong sales.
