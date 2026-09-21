@@ -1,0 +1,18 @@
+# SQL Server / SSMS
+*.bak
+*.ndf
+*.ldf
+*.mdf
+*.trc
+*.log
+
+# Raw dataset CSVs (too large for GitHub — see README for Kaggle source link)
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+*.swp
