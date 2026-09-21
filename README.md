@@ -28,6 +28,8 @@ Orders delivered after the estimated date average a **2.0★** review, versus **
 One-time customers account for R$15.06M in revenue versus R$0.94M from repeat customers.
 This required identifying and correcting for a data quirk: Olist assigns a **new `customer_id` per order**, even for the same person, so `customer_unique_id` had to be used to correctly identify genuine repeat buyers — using `customer_id` alone would have made every customer appear to be a one-time buyer.
 
+<img src="images/03_new_vs_repeat_revenue.png" width="380">
+
 **4. Monthly revenue shows sustained, compounding growth.**
 Revenue grew from ~R$138K/month in early 2017 to a stable R$1.0M–1.2M/month range through 2018.
 
